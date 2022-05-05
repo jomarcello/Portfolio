@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "."
+		},
+		{
+			"name": "Portfolio",
+			"path": "../../../Documents/GitHub/Portfolio"
+		}
+	],
+	"settings": {}
+}
